@@ -1,49 +1,105 @@
-<div align="center">
+<h1 align="center">Hi, I'm Mayur Kohad 👋</h1>
 
-<img src="assets/header.svg" width="100%" alt="Mayur Kohad - Full Stack MERN Developer"/>
+<h3 align="center">Full Stack MERN Developer · AI Integrations · B.Tech AI &amp; ML</h3>
 
-<img src="assets/typing.svg" width="100%" alt="Building scalable MERN applications, integrating AI, designing REST APIs, solving DSA"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayur-Kohad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Mayur-Kohad?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Nagpur-India-f97316?style=for-the-badge" alt="Location"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-kohad-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mayurkohad37@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mayur-project-5bzg.vercel.app/appointment-scheduling"><img src="https://img.shields.io/badge/Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project"/></a>
+  <a href="https://leetcode.com/u/Kvw8foAMe6/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Mayur-Kohad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Mayur-Kohad?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Nagpur-India-f97316?style=for-the-badge" alt="Location"/>
+---
 
-<br/><br/>
+## 👨‍💻 About Me
 
-<a href="https://www.linkedin.com/in/mayur-kohad-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:mayurkohad37@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://mayur-project-5bzg.vercel.app/appointment-scheduling"><img src="https://img.shields.io/badge/Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project"/></a>
-<a href="https://leetcode.com/u/Kvw8foAMe6/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+Full Stack MERN Developer with **7 months of internship experience** building scalable web applications with JavaScript, React.js, Node.js, Express.js and MongoDB. I design REST APIs, integrate AI models (Google Gemini) and payment gateways, and deploy production-ready apps. I have a strong Data Structures and Algorithms foundation and I'm a B.Tech student in AI &amp; Machine Learning.
 
-<br/><br/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img src="assets/marquee.svg" width="100%" alt="Tech stack ticker"/>
+```js
+const mayur = {
+  role: "Full Stack MERN Developer",
+  education: "B.Tech AI & ML, Ramdeobaba Univ.",
+  experience: "7 months @ Edversity",
+  location: "Nagpur, India",
+  building: ["AI voice agents", "Payment apps"],
+  strengths: ["REST APIs", "AI", "React", "DSA"],
+  openTo: "Full Stack / SDE roles",
+};
+```
 
-</div>
+</td>
+<td width="45%" valign="top">
 
-<br/>
+- 🔭 Building **AI-powered full stack apps**
+- ⚙️ Designing **REST APIs** and microservices
+- 💳 Integrating **payments** and cloud storage
+- 🧠 **100+ DSA problems** solved
+- 🏆 **3+ hackathons**, prototypes built in teams
+- 🌱 Exploring **LangChain** and **LangGraph**
 
-<img src="assets/sec-about.svg" width="100%" alt="About me"/>
+</td>
+</tr>
+</table>
 
-<img src="assets/about.svg" width="100%" alt="Full Stack MERN Developer from Nagpur, B.Tech AI and ML, 7 months internship, building AI-powered apps"/>
+---
 
-<details>
-<summary><b>Read the summary as plain text</b></summary>
+## 📊 Developer Dashboard
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/7-Months%20Internship-0ea5e9?style=for-the-badge" alt="7 months internship"/>
+  <img src="https://img.shields.io/badge/100%2B-DSA%20Problems-8b5cf6?style=for-the-badge" alt="100+ DSA problems"/>
+  <img src="https://img.shields.io/badge/3%2B-Hackathons-ec4899?style=for-the-badge" alt="3+ hackathons"/>
+  <img src="https://img.shields.io/badge/3-Projects%20Shipped-10b981?style=for-the-badge" alt="3 projects"/>
+  <img src="https://img.shields.io/badge/7.7-CGPA-f59e0b?style=for-the-badge" alt="CGPA 7.7"/>
+</p>
 
-Full Stack MERN Developer with 7 months of internship experience building scalable web applications with JavaScript, React.js, Node.js, Express.js and MongoDB. I design REST APIs, integrate AI models (Google Gemini) and payment gateways, and deploy production-ready apps. I have a strong Data Structures and Algorithms foundation and I am a B.Tech student in AI and Machine Learning.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+**Technical focus** *(self-rated, edit to taste)*
 
-<br/>
+```mermaid
+pie showData
+    "MERN Full Stack" : 35
+    "REST APIs & Backend" : 20
+    "AI Integrations" : 20
+    "DSA" : 15
+    "DevOps & Cloud" : 10
+```
 
-<img src="assets/sec-stack.svg" width="100%" alt="Tech stack"/>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**How I ship**
+
+```mermaid
+flowchart TD
+    A([Idea]) --> B[React UI]
+    B --> C[Express REST API]
+    C --> D[(MongoDB)]
+    D --> E[AI + Payments]
+    E --> F([Cloud Deployment])
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 | | |
 |:--|:--|
@@ -57,49 +113,106 @@ Full Stack MERN Developer with 7 months of internship experience building scalab
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 | **CS Fundamentals** | ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8b5cf6?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-ec4899?style=flat-square) ![System Design](https://img.shields.io/badge/Basic%20System%20Design-64748b?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-0891b2?style=flat-square) ![OS](https://img.shields.io/badge/Operating%20Systems-475569?style=flat-square) |
 
-</div>
+---
 
-<br/>
+## 💼 Experience
 
-<img src="assets/sec-exp.svg" width="100%" alt="Experience"/>
+### Full Stack Developer Intern (MERN) · Edversity · *Remote · 7 Months*
 
-<img src="assets/experience.svg" width="100%" alt="Full Stack Developer Intern (MERN) at Edversity, Remote, 7 months"/>
+- 🧩 Developed and maintained full-stack web apps on the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- 🎨 Built **responsive, reusable UI components** with React.js, HTML5, CSS3 and JavaScript
+- 🔌 Designed and implemented **REST APIs** for efficient client-server communication
+- ⚡ Optimized performance through **debugging and code refactoring**
+- 🤝 Collaborated with developers using **Git and GitHub** for version control
 
-<br/>
+---
 
-<img src="assets/sec-projects.svg" width="100%" alt="Featured projects"/>
+## 🚀 Featured Projects
 
-<img src="assets/projects.svg" width="100%" alt="Shifra AI voice agent, AI Chatbot App, ShopNest e-commerce platform"/>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
+### 🎙️ Shifra AI
+**Embeddable AI Voice Agent**
 
-<a href="https://github.com/Mayur-Kohad?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repositories-%E2%86%92-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square) ![AI APIs](https://img.shields.io/badge/AI%20APIs-8E75B2?style=flat-square)
 
-</div>
+- Voice agent that can be **embedded into any website**
+- Reusable front-end **widget**
+- Backend **REST APIs** returning AI-generated responses
 
-<br/>
+</td>
+<td width="33%" valign="top">
 
-<img src="assets/sec-dashboard.svg" width="100%" alt="Developer dashboard"/>
+### 🤖 AI Chatbot App
+**Text &amp; Image Generation**
 
-<img src="assets/dashboard.svg" width="100%" alt="Dashboard: 7 months experience, 100+ DSA problems, 3+ hackathons, 3 projects, CGPA 7.7"/>
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square) ![ImageKit](https://img.shields.io/badge/ImageKit-0C71F0?style=flat-square)
 
-<img src="assets/github-metrics.svg" width="100%" alt="Live GitHub metrics"/>
+- User signup/login, **deployed**
+- **Gemini via OpenAI SDK** for text
+- **ImageKit** for prompt-based images
+- **Payment gateway** with a credit system
 
-<br/>
+</td>
+<td width="33%" valign="top">
 
-<img src="assets/sec-edu.svg" width="100%" alt="Education and certifications"/>
+### 🛒 ShopNest
+**Production-Ready E-Commerce**
 
-<img src="assets/education.svg" width="100%" alt="B.Tech AI and ML at Ramdeobaba University, Java and MERN certifications"/>
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square) ![Payments](https://img.shields.io/badge/Payments-f59e0b?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud-0ea5e9?style=flat-square)
 
-<br/>
+- Auth, catalog, cart and order management
+- **Secure online payments**
+- **Admin panel** for products and orders
+- Cloud image storage, deployed to production
 
-<img src="assets/sec-connect.svg" width="100%" alt="Let's connect"/>
+</td>
+</tr>
+</table>
 
-<img src="assets/footer.svg" width="100%" alt="Let's build something great together"/>
+<p align="center">
+  <a href="https://github.com/Mayur-Kohad?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repositories-%E2%86%92-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+</p>
 
-<div align="center">
+---
 
-<a href="mailto:mayurkohad37@gmail.com"><img src="https://img.shields.io/badge/Email-mayurkohad37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/mayur-kohad-developer"><img src="https://img.shields.io/badge/LinkedIn-mayur--kohad--developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+## 🎓 Education &amp; Certifications
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Education
+**B.Tech, Artificial Intelligence &amp; ML**
+Ramdeobaba University, Nagpur · *2023 – 2027*
+📈 CGPA: **7.7**
+
+`Data Structures` `Machine Learning` `DBMS` `Operating Systems` `Web Development`
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications &amp; Achievements
+- ☕ **Java Certification**, LiveTechWire
+- 🌐 **MERN Stack Certification**, LiveTechWire
+- 🧠 **100+ DSA problems** solved across platforms
+- ⚡ **3+ hackathons**, technical prototypes in team environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I'm open to <b>Full Stack / SDE opportunities</b>. Let's build something great together.
+</p>
+
+<p align="center">
+  <a href="mailto:mayurkohad37@gmail.com"><img src="https://img.shields.io/badge/Email-mayurkohad37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mayur-kohad-developer"><img src="https://img.shields.io/badge/LinkedIn-mayur--kohad--developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
